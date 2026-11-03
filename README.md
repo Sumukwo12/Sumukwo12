@@ -121,21 +121,35 @@ A company profile and multimedia presentation project.
 
 ---
 
+
+---
+
 ## GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumukwo12&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+### GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumukwo12&layout=compact&hide_border=true&theme=transparent" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumukwo12&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Statistics" />
 
-<br/><br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumukwo12&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Sumukwo12&theme=transparent&hide_border=true" />
+<br/>
+
+### Contribution Streak
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Sumukwo12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+### Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumukwo12&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
+
 
 ## CURRENT INTERESTS
 
