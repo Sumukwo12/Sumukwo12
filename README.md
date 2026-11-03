@@ -1,90 +1,181 @@
 
-
 <div align="center">
 
-# Lawrence Kimasar
+# LAWRENCE KIMASAR
 
-### Software Engineer | Full-Stack Developer | IT & Network Systems
+### Software Engineer | Full-Stack Developer | Systems & Network Engineering
 
-Building practical software solutions, scalable applications and intelligent digital systems.
+**Designing, developing and deploying technology-driven solutions.**
 
-[![GitHub followers](https://img.shields.io/github/followers/Sumukwo12?style=for-the-badge&logo=github&label=Followers)](https://github.com/Sumukwo12)
-[![GitHub stars](https://img.shields.io/github/stars/Sumukwo12?style=for-the-badge&logo=github&label=Stars)](https://github.com/Sumukwo12?tab=repositories)
+Building scalable applications, intelligent platforms and reliable digital infrastructure.
+
+<br/>
+
+<a href="https://github.com/Sumukwo12">
+  <img src="https://img.shields.io/badge/GitHub-Sumukwo12-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/lawrence-kimasar-1439b72b4b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sumukwo12&style=flat-square&color=2563eb&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ABOUT ME
 
-I'm a software developer passionate about building technology that solves real-world problems.
+I am a Software Engineer with a background in Information and Communication Technology, passionate about engineering practical solutions to real-world challenges.
 
-- 🎓 BSc Information and Communication Technology.
-- 💻 Interested in full-stack and backend development.
-- 🌐 Experience with IT infrastructure, networking and system administration.
-- 🚀 Building web applications, mobile applications and automation systems.
-- 🔍 Interested in AI, cybersecurity, cloud technologies and scalable systems.
+My interests span software development, backend engineering, mobile applications, network infrastructure and emerging technologies.
 
-## 🛠️ Technology Stack
+I enjoy working across the entire software development lifecycle — from system architecture and database design to development, testing, deployment and maintenance.
 
-**Frontend**
- 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Software Engineering:** Building scalable web and backend applications.
+- **Mobile Development:** Developing cross-platform applications using Flutter.
+- **Backend Systems:** Designing APIs, authentication systems and payment integrations.
+- **IT Infrastructure:** Network administration, system monitoring and deployment.
+- **Emerging Technologies:** Exploring AI integration, automation and intelligent systems.
 
-**Backend**
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## TECHNICAL EXPERTISE
 
-**Mobile Development**
+### Programming Languages
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=js,php,go,python,dart,html,css" />
+</p>
 
-**Databases & Infrastructure**
+### Frameworks & Development
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,laravel,firebase" />
+</p>
 
-## 🚀 Featured Projects
+### Databases & Data Management
 
-| Project | Description |
-|---|---|
-| [Hospital ERP System](https://github.com/Sumukwo12/Hospital-ERP-system) | Healthcare management software |
-| [Organization Website](https://github.com/Sumukwo12/organization-website) | Organization website development |
-| [Student Venue Finder](https://github.com/Sumukwo12/Student-venue-finder-system) | Student accommodation and venue discovery |
-| [Portfolio](https://github.com/Sumukwo12/portfolio) | Personal developer portfolio |
-| [Sharvic Profile Video](https://github.com/Sumukwo12/sharvic-profile-video) | Company multimedia project |
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+</p>
 
-## 📊 GitHub Statistics
+### DevOps, Infrastructure & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vscode,postman" />
+</p>
+
+### Networking & Systems
+
+- IP Networking and Network Administration
+- MikroTik and Router Management
+- FTTH / FTTB Infrastructure
+- Network Operations and Monitoring
+- Linux Server Administration
+- System Deployment and Troubleshooting
+
+---
+
+## SELECTED PROJECTS
+
+### 01. Hospital ERP System
+
+**Healthcare Technology | Web Application**
+
+A healthcare management platform focused on digitizing hospital operations and administrative workflows.
+
+[Explore Repository](https://github.com/Sumukwo12/Hospital-ERP-system)
+
+### 02. Student Venue Finder
+
+**Web Development | Information Systems**
+
+A platform designed to help students discover accommodation and suitable venues.
+
+[Explore Repository](https://github.com/Sumukwo12/Student-venue-finder-system)
+
+### 03. Organization Website
+
+**Frontend Development | Web Design**
+
+An organizational website focused on professional digital presence and information delivery.
+
+[Explore Repository](https://github.com/Sumukwo12/organization-website)
+
+### 04. Personal Portfolio
+
+**Software Engineering | Personal Branding**
+
+My personal development portfolio and showcase of technical work.
+
+[Explore Repository](https://github.com/Sumukwo12/portfolio)
+
+### 05. Sharvic Profile Video
+
+**Multimedia | Digital Content**
+
+A company profile and multimedia presentation project.
+
+[Explore Repository](https://github.com/Sumukwo12/sharvic-profile-video)
+
+---
+
+## GITHUB ANALYTICS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumukwo12&show_icons=true&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumukwo12&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumukwo12&layout=compact&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumukwo12&layout=compact&hide_border=true&theme=transparent" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sumukwo12&theme=tokyonight&hide_border=true)
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Sumukwo12&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## CURRENT INTERESTS
 
-- GitHub: [@Sumukwo12](https://github.com/Sumukwo12)
-- LinkedIn: [Lawrence Kimasar](https://www.linkedin.com/in/lawrence-kimasar-1439b72b4b/)
+- Building scalable software architectures.
+- AI-powered applications and intelligent automation.
+- Cloud infrastructure and backend engineering.
+- Secure payment integrations and API development.
+- Network automation and infrastructure monitoring.
+
+---
+
+## EDUCATION
+
+**Bachelor of Science in Information and Communication Technology**
+
+Laikipia University | 2025
+
+Second Class Honours – Upper Division
+
+---
+
+## LET'S CONNECT
+
+I am interested in collaborating on meaningful technology projects, exploring innovative ideas and contributing to software engineering initiatives.
 
 <div align="center">
 
-**Code. Build. Innovate.**
+<a href="https://github.com/Sumukwo12">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/lawrence-kimasar-1439b72b4b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**ENGINEER. BUILD. INNOVATE.**
+
+<sub>Turning ideas into practical technology solutions.</sub>
 
 </div>
