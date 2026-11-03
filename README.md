@@ -30,9 +30,7 @@ Building scalable applications, intelligent platforms and reliable digital infra
 
 I am a Software Engineer with a background in Information and Communication Technology, passionate about engineering practical solutions to real-world challenges.
 
-My interests span software development, backend engineering, mobile applications, network infrastructure and emerging technologies.
-
-I enjoy working across the entire software development lifecycle — from system architecture and database design to development, testing, deployment and maintenance.
+My interests span software development, backend engineering, mobile applications, network infrastructure and the entire software development lifecycle from system architecture and database design to development, testing, deployment and maintenance.
 
 - **Software Engineering:** Building scalable web and backend applications.
 - **Mobile Development:** Developing cross-platform applications using Flutter.
